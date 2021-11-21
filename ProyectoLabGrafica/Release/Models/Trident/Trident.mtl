@@ -1,0 +1,48 @@
+newmtl veh_air_olympus_hovercraft_common
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd 0xddb264186dadcd78.png
+map_bump 0xd471ed85026e9e36.png
+map_Ks 0x433f8a4bc4484b1d.png
+newmtl veh_air_olympus_hovercraft_main
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd 0x476eee0899289fab.png
+map_bump 0x5ad9473054eda214.png
+map_Ks 0x2bfb69334883c464.png
+newmtl veh_air_olympus_hovercraft_headlight
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd 0xefcf0bc190cca947.png
+map_bump 0x86797d50d5f13d73.png
+map_Ks 0x35a74d51f41154c2.png
+newmtl veh_air_olympus_hovercraft_glass
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd 0xefcf0bc190cca947.png
+map_bump 0x86797d50d5f13d73.png
+map_Ks 0x35a74d51f41154c2.png
+newmtl veh_air_olympus_hovercraft_brakelight_off
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd 0xefcf0bc190cca947.png
+map_bump 0x86797d50d5f13d73.png
+map_Ks 0x35a74d51f41154c2.png
+newmtl veh_air_olympus_hovercraft_brakelight_on
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 0.50 0.50 0.50
+map_Kd 0xefcf0bc190cca947.png
+map_bump 0x86797d50d5f13d73.png
+map_Ks 0x35a74d51f41154c2.png

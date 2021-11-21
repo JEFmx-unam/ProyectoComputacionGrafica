@@ -1,0 +1,75 @@
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 0x17687492d94dcca2.png
+Ni 1.00
+newmtl valkyrie_v20_northstar_w_LOD0:valkyrie_hair1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 0xd235f56e6d271db7.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 0x37c31ba1c9f5714d.png
+Ns 0.06
+newmtl valkyrie_v20_northstar_w_LOD0:valkyrie_lgnd_v20_northstar_body1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 0x9a27cc12a47dec5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 0xefd625b09bd434cf.png
+Ns 0.06
+newmtl valkyrie_v20_northstar_w_LOD0:valkyrie_lgnd_v20_northstar_gear2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 0x334f62fb2ad375d8.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 0x17687492d94dcca2.png
+Ns 0.06
+newmtl valkyrie_v20_northstar_w_LOD0:valkyrie_lgnd_v20_northstar_head1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 0xc5727bf74b181102.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 0xa98b8d8f759f1ea0.png
+Ns 0.06
+newmtl valkyrie_v20_northstar_w_LOD0:valkyrie_lgnd_v20_northstar_helmet1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 0xe4a9c176701d796d.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks 0x4a36e7a9ccebcd03.png
+Ns 0.06
+newmtl valkyrie_v20_northstar_w_LOD0:wraith_eye_cornea1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 0x3b0ee59ac68612d7.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl valkyrie_v20_northstar_w_LOD0:wraith_eye_shadow1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 0xd555f141702d81a.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
