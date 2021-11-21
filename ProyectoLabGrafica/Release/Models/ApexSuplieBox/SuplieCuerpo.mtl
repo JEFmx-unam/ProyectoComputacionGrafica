@@ -1,0 +1,53 @@
+newmtl Suplie:Body_BaseSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Supplies-Box_Box_Yellow_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl Suplie:RailsSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Supplies-Box_Box_Metal_BaseColor.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl Suplie:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Supplies-Box_Box_White_BaseColor.png
+Ni 1.00
+newmtl Suplie:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Supplies-Box_Box_Metal_Roughness.png
+Ni 1.00
+newmtl Suplie:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Supplies-Box_Box_Yellow_BaseColor.png
+Ni 1.00
+newmtl Suplie:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Supplies-Box_Box_Metal_BaseColor.png
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Supplies-Box_Box_Fabric_BaseColor.png
+Ni 1.00
