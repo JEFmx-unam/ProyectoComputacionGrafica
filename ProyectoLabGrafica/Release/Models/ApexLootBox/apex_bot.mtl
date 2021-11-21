@@ -1,0 +1,10 @@
+newmtl apex_bot:tick_loot
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd tick_loot_albedo.png
+Ni 1.45
+Ks 0.00 0.00 0.00
+map_Ks tick_loot_specular.png
+Ns 225.00
