@@ -1,0 +1,1899 @@
+newmtl CasaApexLegends:CasaApexLegends:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dorado.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Gris.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera3.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera3.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dorado.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dorado.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dorado.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert29SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:lambert30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Gris.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dorado.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dorado.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dorado.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert2SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dorado.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert4SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert4SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert4SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert4SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert5SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert5SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert5SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert5SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert5SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert5SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert5SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert5SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert6SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert6SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert6SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert6SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert6SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert6SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert6SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert6SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera3.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert10SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera3.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__lambert10SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera3.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dorado.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert2SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dorado.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert4SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert4SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert4SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert4SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert4SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert4SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert4SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert4SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert5SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert6SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dorado.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert4SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert4SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert4SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera2.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert5SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__lambert6SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__pasted__lambert5SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__pasted__lambert5SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__pasted__lambert5SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__pasted__lambert5SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__pasted__lambert6SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__pasted__lambert6SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__pasted__lambert6SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__pasted__lambert6SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__pasted__lambert6SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:CasaApexLegends:pasted__pasted__pasted__pasted__lambert6SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends:casa:lambert16SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera1.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Gris.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera1.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert23SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert29SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl CasaApexLegends:lambert30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__lambert7SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__lambert10SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__lambert10SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__lambert10SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__lambert7SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__lambert10SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__lambert10SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__lambert10SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__lambert10SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__lambert10SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__lambert10SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__lambert10SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__lambert10SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__lambert10SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__lambert10SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__lambert10SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__lambert10SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__lambert10SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__lambert10SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert10SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert10SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert10SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert10SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert10SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends:pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert7SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera6.jpg
+Ni 1.00
+newmtl CasaApexLegends1:lambert30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera5.jpg
+Ni 1.00
+newmtl CasaApexLegends4:CasaApexLegends:pasted__pasted__lambert5SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends4:CasaApexLegends:pasted__pasted__lambert6SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends4:CasaApexLegends:pasted__pasted__pasted__lambert5SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends4:CasaApexLegends:pasted__pasted__pasted__lambert5SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl CasaApexLegends4:CasaApexLegends:pasted__pasted__pasted__lambert6SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl CasaApexLegends4:CasaApexLegends:pasted__pasted__pasted__lambert6SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera1.jpg
+Ni 1.00
+newmtl lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd marmol2.jpg
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cespedMorado.jpg
+Ni 1.00
+newmtl lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cespedMorado.jpg
+Ni 1.00
+newmtl lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pared.jpg
+Ni 1.00
+newmtl pasted__lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl pasted__lambert12SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl pasted__lambert12SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl pasted__lambert12SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl pasted__lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera1.jpg
+Ni 1.00
+newmtl pasted__lambert13SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera1.jpg
+Ni 1.00
+newmtl pasted__lambert13SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera1.jpg
+Ni 1.00
+newmtl pasted__lambert13SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera1.jpg
+Ni 1.00
+newmtl pasted__lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__lambert25SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__pasted__lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert12SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert12SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Metal1.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera1.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert13SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera1.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert13SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera1.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert25SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__pasted__lambert25SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__pasted__lambert25SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert25SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert25SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert25SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert25SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert25SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert25SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert25SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert25SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert25SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrioTranslu.png
+Ni 1.00
